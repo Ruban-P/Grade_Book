@@ -1,0 +1,6 @@
+c:\users\elcot\documents\visual studio 2012\Projects\grade\student_grade\bin\Debug\student_grade.exe.config
+c:\users\elcot\documents\visual studio 2012\Projects\grade\student_grade\bin\Debug\student_grade.exe
+c:\users\elcot\documents\visual studio 2012\Projects\grade\student_grade\bin\Debug\student_grade.pdb
+c:\users\elcot\documents\visual studio 2012\Projects\grade\student_grade\obj\Debug\student_grade.csprojResolveAssemblyReference.cache
+c:\users\elcot\documents\visual studio 2012\Projects\grade\student_grade\obj\Debug\student_grade.exe
+c:\users\elcot\documents\visual studio 2012\Projects\grade\student_grade\obj\Debug\student_grade.pdb
